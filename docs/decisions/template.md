@@ -1,9 +1,9 @@
 ---
-status: {proposed | rejected | accepted | deprecated | superseded by [ADR-NNNN](NNNN-title.md)}
-date: {YYYY-MM-DD}
-decision-makers: {list everyone involved in the decision}
-consulted: {list everyone whose opinions are sought}
-informed: {list everyone kept up-to-date}
+status: "proposed | rejected | accepted | deprecated | superseded by [ADR-NNNN](NNNN-title.md)"
+date: "YYYY-MM-DD"
+decision-makers: "list everyone involved in the decision"
+consulted: "list everyone whose opinions are sought"
+informed: "list everyone kept up-to-date"
 ---
 
 # {Short title of the problem and solution}
