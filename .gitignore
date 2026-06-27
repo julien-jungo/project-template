@@ -70,6 +70,9 @@ skaffold-cache/
 .DS_Store
 Thumbs.db
 
+# Lavish artifacts
+.lavish/
+
 # Logs & temp
 *.log
 tmp/

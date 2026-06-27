@@ -102,7 +102,10 @@
       "Bash(echo *)",
       "Bash(pwd)",
       "Bash(env)",
-      "Bash(printenv *)"
+      "Bash(printenv *)",
+
+      "Write(.lavish/*)",
+      "Bash(mkdir -p .lavish)"
     ]
   }
 }
