@@ -55,6 +55,12 @@
       "skillPath": "skills/lavish/SKILL.md",
       "computedHash": "7fdc9a25ba80783b336fcd8ffbc9624274ad0647bf383004b5bdd1035a9229f2"
     },
+    "no-mistakes": {
+      "source": "kunchenguid/no-mistakes",
+      "sourceType": "github",
+      "skillPath": "skills/no-mistakes/SKILL.md",
+      "computedHash": "be9d729ba60764b816b6e9cc9d18c9902989a7021cc2ccd32607d9097767877c"
+    },
     "playwright-cli": {
       "source": "microsoft/playwright-cli",
       "sourceType": "github",
